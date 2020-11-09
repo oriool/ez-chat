@@ -1,0 +1,23 @@
+{
+  "name": "ez-chat",
+  "version": "1.0.0",
+  "description": "Simple chat app created to play a little bit with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oriool/ez-chat.git"
+  },
+  "author": "Oriol Buqueras Solsona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oriool/ez-chat/issues"
+  },
+  "homepage": "https://github.com/oriool/ez-chat#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^3.0.0"
+  }
+}

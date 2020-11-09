@@ -4,6 +4,7 @@
   "description": "Simple chat app created to play a little bit with node",
   "main": "app.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -1,5 +1,5 @@
-# ez-chat app
-This is a chat app created to play with node and socket.io. Right now it's in a very primitive stage, but I'll be working on it a little bit. To try the app you can open different tabs and see how the chat messages are broadcasted to all the other tabs. You can also acces the app with your phone or any other device, and you'll see how the messages are also received there.
+# ez-chat server
+This is a chat app created to play with node, react and socket.io. Right now it's in a very primitive stage, but I'll be working on it a little bit. To try the app you can open different tabs and see how the chat messages are broadcasted to all the other tabs. You can also acces the app with your phone or any other device, and you'll see how the messages are also received there.
 
 ### [Click here to try the app!](https://ez-chatt.herokuapp.com)
 
